@@ -1,6 +1,6 @@
 {
-    "name": "sierrasecurityresearch/test-repo",
-    "description": "Controlled harmless package for Packagist security research.",
+    "name": "identity/null-remote-id",
+    "description": "Temporary null remote-id repository identity probe for Packagist security research.",
     "type": "library",
     "license": "MIT",
     "autoload": {
