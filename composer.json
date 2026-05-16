@@ -1,6 +1,6 @@
 {
-    "name": "sierrasecurityresearch/test-repo",
-    "description": "Controlled harmless package for Packagist security research.",
+    "name": "takeover/source",
+    "description": "Temporary recycled package name for Packagist security research.",
     "type": "library",
     "license": "MIT",
     "autoload": {
