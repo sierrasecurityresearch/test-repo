@@ -1,6 +1,6 @@
 {
-    "name": "sierrasecurityresearch/test-repo",
-    "description": "Controlled harmless package for Packagist security research.",
+    "name": "recycle/gitlabgone",
+    "description": "Temporary recycled GitLab-gone package for Packagist security research.",
     "type": "library",
     "license": "MIT",
     "autoload": {
